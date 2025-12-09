@@ -1,0 +1,9 @@
+{
+  "name": "hamza-container-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Docker Lab Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
